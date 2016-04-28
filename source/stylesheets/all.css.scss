@@ -4,3 +4,21 @@
 @import "base/base";   /* Bitters needs to be imported before Neat */
 @import "neat";
 @import "partials/layout";
+
+.header {
+  @include span-columns(12);
+  h1 {
+    font-size: 5em;
+    text-align: center;
+  }
+}
+
+.lead {
+  @include span-columns(12);
+  font-size: 2em;
+  text-align: center;
+
+  .strong {
+    font-size: 4em;
+  }
+}
