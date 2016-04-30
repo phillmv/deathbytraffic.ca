@@ -17,6 +17,9 @@ hr {
   width: 100%;
   // padding-bottom: 1em;
 }
+.em {
+  font-size: 1.2em;
+}
 
 .lead {
   @include span-columns(12 of 12);
@@ -35,16 +38,36 @@ hr {
 .what {
   @include span-columns(6 of 12);
   @include shift(3);
+  @include media($mobile) {
+    @include shift(0);
+    @include span-columns(12 of 12);
+
+  }
   h1 {
     font-size: 2em;
-    // padding-top: 0.5em;
     margin: 0.8em 0 0.2em 0;
+
+  @include media($mobile) {
+    font-size: 1.8em;
+  }    
   }
 
   h2 {
     font-size: 1.5em;
+  @include media($mobile) {
+    font-size: 1.2em;
+  }    
   }
   p {
-    font-size: 1.2em;
+    font-size: 1em;
   }
+}
+
+sup, sub {
+  vertical-align: baseline;
+  position: relative;
+  top: -0.4em;
+}
+sub { 
+  top: 0.4em; 
 }
