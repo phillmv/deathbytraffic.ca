@@ -29,15 +29,15 @@ A review of pedestrian deaths in Ontario in 2010 found that seniors are especial
 Most collisions in Toronto that occur on roadways and
 involve pedestrians and cyclists occur on major and minor arterial roads. About 84% of pedestrian injuries and fatalities and 87% of cyclist injuries and fatalities occur on these roads. Across all roads, 69% were struck in an intersection, and about 22% at a midblock location[^topublichealthpedcyclingsafety].
 
-Traffic kills people **all over the city**. See for yourself:
+Traffic kills people **all over the city**. [Luke Simcoe](https://twitter.com/MetroLuke) made this great map:
 <iframe frameborder="0" title="Features " src="https://www.google.com/maps/d/embed?mid=zJG9a0ushRjc.k3kxt4DE6K1E" width="100%" height="480"></iframe>
 
 
 <a name="whatwe" />
 
-# What can be do about it?
+# What can be done about it?
 
-If pedestrians and cyclists are typically not at fault, what can we do? The answer lies in how we've designed our roads. In order to save lives, roads need to accomodate for pedestrians and cyclists. There are a variety of policy suggestions which you can find in the quoted reports but these are the two big ideas:
+If pedestrians and cyclists are typically not at fault, what can we do? The answer lies in how we've designed our roads. In order to save lives, roads need to accomodate all of its users, including pedestrians and cyclists. There are a variety of policy suggestions which you can find in the quoted reports but these are the two big ideas:
 
 ## 1. Calm traffic
 
