@@ -1,32 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <meta http-equiv='X-UA-Compatible' content='IE=edge;chrome=1' />
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="/stylesheets/all.css" rel="stylesheet" />
-
-    <title>Death By Traffic</title>
-  </head>
-  <body>
-
-    <div id="main" role="main">
-      <!-- <div class="header"> -->
-        <!--   <h1>Death by Traffic</h1> -->
-        <!-- </div> -->
-
-      <div class="lead">
-        <p>In Toronto, in 2016 so far, there have been <br/><span class="strong">16</span><br/> pedestrian or cyclist deaths.</p>
-
-        <p>Traffic in Toronto is dangerous for <b>everyone</b>.<br/>It doesn't have to be this way.</p>
-        <p class="nav">What's going on? / How are people killed? / Where does this happen? / What can we do about it?</p>
-
-      <hr/>
-      </div>
-
-
-      <div class="what">
-        <h1 id="whats-going-on">What's going on?</h1>
+<h1 id="whats-going-on">What's going on?</h1>
 
 <p><a href="http://www.cbc.ca/news/canada/toronto/toronto-traffic-fatalities-1.3386126">Traffic fatalities are at their highest level in five years</a>.</p>
 
@@ -77,10 +49,3 @@ involve pedestrians and cyclists occur on major and minor arterial roads. About 
     </li>
   </ol>
 </div>
-
-      </div>
-
-    </div>
-
-  </body>
-</html>
