@@ -215,6 +215,9 @@ html {
 hr {
   width: 100%; }
 
+.em {
+  font-size: 1.2em; }
+
 .lead {
   float: left;
   display: block;
@@ -238,10 +241,33 @@ hr {
   margin-left: 25.58941%; }
   .what:last-child {
     margin-right: 0; }
+  @media screen and (max-width: 30em) {
+    .what {
+      margin-left: 0%;
+      float: left;
+      display: block;
+      margin-right: 2.35765%;
+      width: 100%; }
+      .what:last-child {
+        margin-right: 0; } }
   .what h1 {
     font-size: 2em;
     margin: 0.8em 0 0.2em 0; }
+    @media screen and (max-width: 30em) {
+      .what h1 {
+        font-size: 1.8em; } }
   .what h2 {
     font-size: 1.5em; }
+    @media screen and (max-width: 30em) {
+      .what h2 {
+        font-size: 1.2em; } }
   .what p {
-    font-size: 1.2em; }
+    font-size: 1em; }
+
+sup, sub {
+  vertical-align: baseline;
+  position: relative;
+  top: -0.4em; }
+
+sub {
+  top: 0.4em; }
