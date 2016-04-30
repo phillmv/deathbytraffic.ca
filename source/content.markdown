@@ -93,7 +93,7 @@ I want to live in a better Toronto.
 # References
 <div class="footnotes">
 <ol>
-<li id="fn:cbctotrafficfatal">
+<li id="fn:metromap">
 <p>This figure is almost certainly an underestimate. It's actually rather hard to get reliable data. These stats are compiled by the police and released at the end of the year - but it's hard to get the actual report. I double checked Luke Simcoe's  "<a href="http://www.metronews.ca/news/toronto/2016/02/04/pedestrian-and-cyclist-fatalities-in-toronto-2016.html">Which roads are deadliest? Metro maps cyclist and pedestrian deaths</a>", without which I could not have put this page together. <a href="#fnref:metromap" class="reversefootnote">↩</a></p>
 </li>
 </ol>
