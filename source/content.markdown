@@ -37,7 +37,7 @@ Traffic kills people **all over the city**. [Luke Simcoe](https://twitter.com/Me
 
 # What can be done about it?
 
-If pedestrians and cyclists are typically not at fault, what can we do? The answer lies in how we've designed our roads. In order to save lives, roads need to accomodate all of its users, including pedestrians and cyclists. There are a variety of policy suggestions which you can find in the quoted reports but these are the two big ideas:
+If pedestrians and cyclists are typically not at fault, what can we do? The answer lies in how we've designed our roads. In order to save lives, roads need to accommodate all of its users, including pedestrians and cyclists. There are a variety of policy suggestions which you can find in the quoted reports but these are the two big ideas:
 
 ## 1. Calm traffic
 
@@ -75,13 +75,13 @@ Hi, I'm [Phill](https://twitter.com/phillmv). I run a startup. I've lived in Tor
 There's a pilot project for bike lanes that is going to be debated in City Council. On Tuesday, April 26th, 2016 I saw the councillor for Etobicoke Centre reference that project by tweeting:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I will be driving in along Bloor this morning to see what the bike lanes would do to the morning rush hour.</p>&mdash; John F Campbell (@Campbell4Ward4) <a href="https://twitter.com/Campbell4Ward4/status/724922141393702913">April 26, 2016</a></blockquote>
-
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">38 mts to City Hall along Bloor. Shaw - University, did not pass ONE cyclist. Drove today because I have a 2 pm at Etobicoke Civic Ctr.</p>&mdash; John F Campbell (@Campbell4Ward4) <a href="https://twitter.com/Campbell4Ward4/status/724935830956023808">April 26, 2016</a></blockquote>
 
 This made my blood boil. It was pounding rain out, which makes it unsafe to ride. The night before, this had happened:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Toronto police say 5 pedestrians, 1 cyclist have been struck since 8:30 p.m. tonight. Police urging motorists, pedestrians to use caution.</p>&mdash; CP24 (@CP24) <a href="https://twitter.com/CP24/status/724778390469922819">April 26, 2016</a></blockquote>
 
-**An hour before** Mr. Campbell tweeted, a [cyclist was hit by a car and sent to the hopistal](http://www.citynews.ca/2016/04/26/cyclist-struck-on-queensway-now-in-hospital/). **Later that same day**, [a pedestrian was killed](http://www.thestar.com/news/crime/2016/04/26/pedestrian-killed-5-others-injured-during-rainy-night.html) and four others injured.
+**An hour before** Mr. Campbell tweeted, a [cyclist was hit by a car and sent to the hospital](http://www.citynews.ca/2016/04/26/cyclist-struck-on-queensway-now-in-hospital/). **Later that same day**, [a pedestrian was killed](http://www.thestar.com/news/crime/2016/04/26/pedestrian-killed-5-others-injured-during-rainy-night.html) and four others injured.
 
 **The following day,** April 27th, a cyclist was struck on Jarvis St and was taken to the hospital with [life threatening injuries](http://www.680news.com/2016/04/27/cyclist-serious-condition-struck-downtown/).
 (Did you know we used to have a bike lane on Jarvis, but [it got removed](http://www.thestar.com/news/city_hall/2012/10/02/jarvis_bike_lanes_to_be_removed_after_lastditch_council_effort_to_save_them_fails.html) back in 2012?)
