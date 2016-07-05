@@ -69,7 +69,7 @@ A lot of these changes are [opposed](http://www.thestar.com/news/gta/2016/04/27/
 
 I think the status quo hurts people no matter where they live in the city. Do you know how dangerous it feels to bike north of Eglinton?
 
-The best thing you can do is [contact your city councillor](http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=c3a83293dc3ef310VgnVCM10000071d60f89RCRD) and ask them to make our streets safer for cyclists and pedestrians. Ask them to support bike lanes. Ask them to support calming traffic. Ask them to support a [Vision Zero](http://torontoist.com/2016/01/the-first-step-to-reduce-traffic-fatalities/) for Toronto.
+The best thing you can do is [contact your city councillor](http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=c3a83293dc3ef310VgnVCM10000071d60f89RCRD) and ask them to make our streets safer for cyclists and pedestrians. Ask them to support bike lanes. Ask them to support calming traffic. Ask them to support a [Vision Zero](http://torontoist.com/2016/01/the-first-step-to-reduce-traffic-fatalities/) for Toronto. Ask Mayor Tory to [commit funds](http://www.metronews.ca/news/toronto/2016/06/15/victims-of-toronto-deadly-streets-call-for-change.html) to prevent deaths on our roads.
 
 This can be intimidating, but don't worry! It's really easy. This [guide might help](http://tyfpc.ca/whatwedo/advocacytoolkit/councillor/).
 
@@ -101,7 +101,7 @@ I want to live in a better Toronto.
 
 I think we owe it to everyone who lives in this city to make our roads safer, and more appealing, for everyone. 
 
--- Site last updated: June 23th, 2016.
+-- Originally published April 30, 2016. Site last updated: July 5th, 2016.
 
 # References
 <div class="footnotes">
