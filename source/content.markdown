@@ -101,7 +101,7 @@ I want to live in a better Toronto.
 
 I think we owe it to everyone who lives in this city to make our roads safer, and more appealing, for everyone. 
 
--- Originally published April 30, 2016. Site last updated: July 5th, 2016.
+-- Originally published April 30, 2016. Site last updated: Oct 31st, 2016.
 
 # References
 <div class="footnotes">
